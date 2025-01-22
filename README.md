@@ -1,5 +1,5 @@
 # Obsidian--ITS-CheckBoxes
-Modified Obsidian--ITS--Theme css files for checkboxes. This will also bring over the whole theme of ITS-Theme options. I did not strip that code out yet to make a lightweight version if people do not want the whole theme. I will also be submitting a pull request of the original code base with these changes. Unsure how long that will take if it does at all.
+[Modified Obsidian--ITS--Theme](https://github.com/Dirtimoney/Obsidian--ITS-CheckBoxes/blob/main/Modified_ITS_Theme_Checkboxes.css) css files for checkboxes. This will also bring over the whole theme of ITS-Theme options. I did not strip that code out yet to make a lightweight version if people do not want the whole theme. I will also be submitting a pull request of the original code base with these changes. Unsure how long that will take if it does at all.
 
 # Original code can be found here [S1Rvb--ITS-Theme](https://github.com/SlRvb/Obsidian--ITS-Theme)
 
