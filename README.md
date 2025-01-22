@@ -26,7 +26,11 @@
 # What the checkboxes look like
 > - Information on what the checkboxes look like when checked can be found on the original coders site on [Obsidian](https://publish.obsidian.md/slrvb-docs/ITS+Theme/ITS+Theme).
 
+# Known-Bugs:
+- Inside a callout the [-] looks different than outside of a callout when in "edit" mode for obsidian.
+
 # TO-DO:
 - Strip the code out and getting it working without using the theme.
 - Do a pull request to get the functionality into the main code base (if they wish to add it)
 - Publish to Obsidian.
+- Make a tracked item for known-bugs.
